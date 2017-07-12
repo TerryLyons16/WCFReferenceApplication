@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFLearningLibrary", "WCFLearningLibrary\WCFLearningLibrary.csproj", "{3E835E8E-ABA2-4E5D-BE1A-342EC21D61AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFLearningClient", "WCFLearningClient\WCFLearningClient.csproj", "{B8684701-957F-4626-9205-323C741F74AF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3E835E8E-ABA2-4E5D-BE1A-342EC21D61AB} = {3E835E8E-ABA2-4E5D-BE1A-342EC21D61AB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "WCFRepository\Repository.csproj", "{424C9BB9-9FBB-4032-B75C-3159F5DDB198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFramework", "WCFEntityFramework\EntityFramework.csproj", "{E2B4F143-B9B5-4CEB-8B9C-DAD75F462582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessManagers", "WCFBusinessManagers\BusinessManagers.csproj", "{4F3A2EBA-9640-4E73-AE28-18D25CEA6B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFHostWindowsService", "WCFHostWindowsService\WCFHostWindowsService.csproj", "{108F24E5-3392-4D24-B1E6-2DC42B3F3FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E835E8E-ABA2-4E5D-BE1A-342EC21D61AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E835E8E-ABA2-4E5D-BE1A-342EC21D61AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E835E8E-ABA2-4E5D-BE1A-342EC21D61AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E835E8E-ABA2-4E5D-BE1A-342EC21D61AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8684701-957F-4626-9205-323C741F74AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8684701-957F-4626-9205-323C741F74AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8684701-957F-4626-9205-323C741F74AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8684701-957F-4626-9205-323C741F74AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424C9BB9-9FBB-4032-B75C-3159F5DDB198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424C9BB9-9FBB-4032-B75C-3159F5DDB198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424C9BB9-9FBB-4032-B75C-3159F5DDB198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424C9BB9-9FBB-4032-B75C-3159F5DDB198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2B4F143-B9B5-4CEB-8B9C-DAD75F462582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2B4F143-B9B5-4CEB-8B9C-DAD75F462582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2B4F143-B9B5-4CEB-8B9C-DAD75F462582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2B4F143-B9B5-4CEB-8B9C-DAD75F462582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3A2EBA-9640-4E73-AE28-18D25CEA6B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3A2EBA-9640-4E73-AE28-18D25CEA6B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3A2EBA-9640-4E73-AE28-18D25CEA6B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3A2EBA-9640-4E73-AE28-18D25CEA6B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{108F24E5-3392-4D24-B1E6-2DC42B3F3FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108F24E5-3392-4D24-B1E6-2DC42B3F3FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108F24E5-3392-4D24-B1E6-2DC42B3F3FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108F24E5-3392-4D24-B1E6-2DC42B3F3FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

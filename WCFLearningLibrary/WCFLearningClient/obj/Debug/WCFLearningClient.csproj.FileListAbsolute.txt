@@ -1,0 +1,15 @@
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\WCFLearningClient.exe.config
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\WCFLearningClient.exe
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\WCFLearningClient.pdb
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\obj\Debug\WCFLearningClient.csprojResolveAssemblyReference.cache
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\obj\Debug\WCFLearningClient.exe
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\obj\Debug\WCFLearningClient.pdb
+c:\Users\Freelancer\Documents\Visual Studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\WCFBusinessManagers.dll
+c:\Users\Freelancer\Documents\Visual Studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\WCFEntityFramework.dll
+c:\Users\Freelancer\Documents\Visual Studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\WCFRepository.dll
+c:\Users\Freelancer\Documents\Visual Studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\EntityFramework.dll
+c:\Users\Freelancer\Documents\Visual Studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\WCFBusinessManagers.pdb
+c:\Users\Freelancer\Documents\Visual Studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\WCFEntityFramework.pdb
+c:\Users\Freelancer\Documents\Visual Studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\WCFRepository.pdb
+c:\Users\Freelancer\Documents\Visual Studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\EntityFramework.xml
+c:\Users\Freelancer\Documents\Visual Studio 2015\Projects\WCFLearningLibrary\WCFLearningClient\bin\Debug\EntityFramework.SqlServer.dll

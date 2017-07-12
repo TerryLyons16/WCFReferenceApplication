@@ -1,0 +1,9 @@
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningFormsClient\WCFLearningFormsClient\bin\Debug\WCFLearningFormsClient.exe.config
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningFormsClient\WCFLearningFormsClient\bin\Debug\WCFLearningFormsClient.exe
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningFormsClient\WCFLearningFormsClient\bin\Debug\WCFLearningFormsClient.pdb
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningFormsClient\WCFLearningFormsClient\obj\Debug\WCFLearningFormsClient.csprojResolveAssemblyReference.cache
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningFormsClient\WCFLearningFormsClient\obj\Debug\WCFLearningFormsClient.Form1.resources
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningFormsClient\WCFLearningFormsClient\obj\Debug\WCFLearningFormsClient.Properties.Resources.resources
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningFormsClient\WCFLearningFormsClient\obj\Debug\WCFLearningFormsClient.csproj.GenerateResource.Cache
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningFormsClient\WCFLearningFormsClient\obj\Debug\WCFLearningFormsClient.exe
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningFormsClient\WCFLearningFormsClient\obj\Debug\WCFLearningFormsClient.pdb

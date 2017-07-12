@@ -1,0 +1,6 @@
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningConsoleClient\WCFLearningConsoleClient\bin\Debug\WCFLearningConsoleClient.exe.config
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningConsoleClient\WCFLearningConsoleClient\bin\Debug\WCFLearningConsoleClient.exe
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningConsoleClient\WCFLearningConsoleClient\bin\Debug\WCFLearningConsoleClient.pdb
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningConsoleClient\WCFLearningConsoleClient\obj\Debug\WCFLearningConsoleClient.csprojResolveAssemblyReference.cache
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningConsoleClient\WCFLearningConsoleClient\obj\Debug\WCFLearningConsoleClient.exe
+c:\users\freelancer\documents\visual studio 2015\Projects\WCFLearningConsoleClient\WCFLearningConsoleClient\obj\Debug\WCFLearningConsoleClient.pdb

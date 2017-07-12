@@ -1,0 +1,11 @@
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\bin\Debug\WCFBusinessManagers.dll
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\bin\Debug\WCFBusinessManagers.pdb
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\bin\Debug\WCFEntityFramework.dll
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\bin\Debug\WCFRepository.dll
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\bin\Debug\EntityFramework.dll
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\bin\Debug\WCFEntityFramework.pdb
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\bin\Debug\WCFRepository.pdb
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\bin\Debug\EntityFramework.xml
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\obj\Debug\BusinessManagers.csprojResolveAssemblyReference.cache
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\obj\Debug\WCFBusinessManagers.dll
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFBusinessManagers\obj\Debug\WCFBusinessManagers.pdb

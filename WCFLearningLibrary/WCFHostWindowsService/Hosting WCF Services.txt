@@ -1,0 +1,4 @@
+﻿Followed the guide at https://msdn.microsoft.com/en-us/library/ff649818.aspx to create the Windows Service Host.
+However, didn't:
+Use a Network account for the service installer, used a Local system account.
+Use TCP for the WCF service endpoint, used Http

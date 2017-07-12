@@ -1,0 +1,5 @@
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFRepository\bin\Debug\WCFRepository.dll
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFRepository\bin\Debug\WCFRepository.pdb
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFRepository\obj\Debug\WCFRepository.dll
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFRepository\obj\Debug\WCFRepository.pdb
+C:\Users\Freelancer\documents\visual studio 2015\Projects\WCFLearningLibrary\WCFRepository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
